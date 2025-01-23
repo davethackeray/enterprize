@@ -9,9 +9,22 @@
 - Uses SQLite for local database storage.
 
 ## AI Integration
-- Uses OpenAI API for scenario generation and feedback.
+- Uses Gemini API for scenario generation and feedback.
 - Prompts are stored in `ai/prompts/`.
 
 ## Testing
 - Unit tests are written with Jest.
 - Integration tests cover API endpoints.
+
+## Directory Structure
+- `/src`: Contains frontend code.
+  - `/components`: React components.
+  - `/styles`: CSS files.
+- `/server`: Contains backend code.
+  - `/routes`: Express routes.
+  - `/config.js`: Configuration settings.
+- `/ai`: AI integration code.
+  - `/api`: API calls to Gemini.
+  - `/prompts`: AI prompts.
+- `/documentation`: Project documentation.
+- `/tests`: Unit and integration tests.

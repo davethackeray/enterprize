@@ -8,6 +8,7 @@
   - Created the project structure with all necessary files and content.
   - Updated references from `OPENAI_API_KEY` to `GEMINI_API_KEY`.
   - Added the Gemini API key and model to the `.env` file.
+  - Added the Gemini API key and model to the `.env` file.
 - **Thoughts**:
   - Ensured the project structure is comprehensive and scalable.
   - Verified that all references to the API key were updated correctly.

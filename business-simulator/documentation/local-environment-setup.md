@@ -14,3 +14,5 @@
 3. Configure ESLint and Prettier for code formatting.
 4. Set up SQLite for local data storage.
 5. Create a `.env` file for environment variables (e.g., API keys).
+   - Add `GEMINI_API_KEY` to the `.env` file.
+6. **Note**: The `npm install` command has already been executed to install necessary dependencies.
